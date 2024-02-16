@@ -1,1 +1,1 @@
-# project_7_sql
+sql_project
